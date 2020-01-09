@@ -1,0 +1,16 @@
+{
+  "name": "jstable",
+  "version": "1.0.0",
+  "description": "Componente JavaScript para criação de Tabela HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "table",
+    "html"
+  ],
+  "author": "Valdinei Reis <valdineimtz@gmail.com>",
+  "license": "MIT"
+}

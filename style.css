@@ -1,0 +1,16 @@
+/** INICIO - FORMATAÇÃO DA TABELA*/
+table td { padding: 2px 5px }
+table thead { background-color: #e2e2e2; }
+.thead-row td {
+    font-weight: bold;
+}
+.tbody-row td {
+    cursor: pointer;
+}
+.tbody-row:hover {
+    background-color: #eaeaea;
+}
+.tbody-row:active {
+    color: #555;
+}
+/** FIM - FORMATAÇÃO DA TABELA*/
